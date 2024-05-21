@@ -1,4 +1,4 @@
-#Basic Weather Application
+Basic Weather Application
 Overview
 This application leverages the OpenWeather API to track and display weather information for various locations. It allows users to check the current weather conditions by entering the name of a city.
 
